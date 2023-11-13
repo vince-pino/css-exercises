@@ -1,0 +1,22 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.odd {
+  background-color: lightpink;
+}
+
+#num-two {
+  color: blue;
+  font-size: 36px;
+}
+
+.num-three {
+  font-size: 24px;
+}
+
+#num-four {
+  background-color: lightgreen;
+  font-weight: bold;
+  font-size: 24px;
+}
